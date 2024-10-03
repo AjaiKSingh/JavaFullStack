@@ -1,15 +1,9 @@
 # JavaFullStack
 
 **Backend (Spring Boot):**
-	Java: The application logic is implemented using Java programming language.
-	Spring Boot: Provides a robust and scalable framework for building backend services.
-	Spring Data JPA: Simplifies data access and persistence.
-	RESTful API: Exposes endpoints for communication with the frontend.
+	Java, Spring Boot, Spring Data JPA, RESTful API: Exposes endpoints for communication with the frontend.
 **Frontend (React):**
-	React: A JavaScript library for building user interfaces.
-	State Management (e.g., Redux): Ensures efficient state handling for a seamless user experience.
-	React Router: Facilitates navigation and routing within the application.
-	Fetch: Handles HTTP requests to interact with the backend.
+	React, State Management, React Router , Fetch
 **Database:**
 	Database MySQL: Stores employee information persistently.
 
